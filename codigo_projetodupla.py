@@ -5,7 +5,6 @@
     
         return False
 
-
 valor = int(input("digite um valor:"))
 
 
