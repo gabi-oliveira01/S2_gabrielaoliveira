@@ -9,7 +9,7 @@ def multiplo (a,b):
 valor =(input("digite um valor:"))
 valor2=int(input("digite outro valor:"))
 
-resultado= (valor, valor)
+resultado= (valor, valor2)
 
 if resultado:
     print("os numeros são multiplos")
