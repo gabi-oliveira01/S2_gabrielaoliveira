@@ -8,7 +8,7 @@
 valor = int(input("digite um valor:"))
 
 
-resultado= multiplo (valor, valor)
+resultado= multiplo (valor, valor2)
 
 if resultado:
     print("os numeros são multiplos")
